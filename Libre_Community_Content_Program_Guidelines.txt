@@ -1,0 +1,23 @@
+❦Libre Community Content Program Guidelines❦
+
+By Felipe Lohan Pinheiro da Silva
+
+***
+
+•The licensors ⭑WİLL NOT⭑ make any NDAs (Non-disclosure agreements), trade secrets, or any kind of agreement with any organization (no matter if they are governmental or non-governmental) to hide technical data from the [licensee/end-user]s, or to embed malicious features (including backdoors, malwares, etc.), intending to [harm/spy/eavesdrop/expose] the [licensee / end-user]s, in the [produc/t/echnologie]s [distribut/releas/publish]ed to them. İf anyone attempts to do this in the [distribution/release/publication] by the licensors of these [produc/t/echnologie]s, or contact them to do so, they’ll refuse it and report them to the community A.S.A.P (as soon as possible). THİS WİLL BE DONE EVEN İN THE CASES İN THAT THE LAW MANDATES THE EMBEDDİNG OF SUCH FEATURES OR FORBİDS TO MAKE SUCH REPORTS. İn these cases, the licensors have the following options:
+
+1 – Take legal action.
+
+2 – Outright refusal to abide by the law (civil disobey).
+
+3 – Move to another [country/jurisdiction].
+
+4 – Ceasing the operations (closing the organization responsible for this Program (ƒuскіng recursion)).
+
+•The licensors will publicly rebuke, as being non-compliant w/ this Program (ƒuскіng recursion), [produc/t/echnologie]s that:
+
+1 – Are under a License that makes restrictions based on discrimination against speciƒіc [licensee/end-user]s, groups, activities or ƒіelds of study.
+
+2 – Have the aforementioned malicious features.
+
+•Any technical problems («bugs») will be reported to the community A.S.A.P (as soon as possible).

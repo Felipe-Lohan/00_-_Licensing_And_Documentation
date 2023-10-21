@@ -1,0 +1,59 @@
+❦Libre Template Of Social Contract For Gaming Groups❦
+
+By Felipe Lohan Pinheiro da Silva
+
+***
+
+•All members of the group shall read and understand the text of this social contract, and give their explicit full and true consent, ⭑BEFORE⭑ the beginning of the gaming activities.
+
+•All members of the group shall respect the [moral/social/conduct/dressing] codes of the location in that the gaming session is being held.
+
+•Any conduct of [harassment/abuse] (including, but not limited to, sexual, moral, social, psychological, etc.) will not be tolerated in the group. All the members of the group shall respect each other.
+
+•Any mental disorder you have can be used against you in the game – Any mental disorders (including, but not limited to, psychiatric ones, phobias, and traumas, etc.) of any origin (including, but not limited to, originated from sexual a[ssault/abuse]s, abusive relationships, [violence/war], accidents, etc.) that any member of the group (regardless of his position of being a player, GM, or GM Assistant) may have can be used against him, ⭑for gaming purposes only⭑ (being the most common use the production of [mockery/terror/comedy/horror/humor/suspense/parody/thriller/satire/tragedy/jokes/melodrama/memes]). This ⭑WİLL NOT⭑ be classiƒіed as a form of [harassment/abuse] or violation of this social contract. Talking about «horror RPGs» is pointless if you can’t use the mental disorders of the participants for gaming purposes.
+
+•The group shall establish a clear policy regarding physical [contac[/t/]ouch] boundaries (regardless if the game is or isn’t a Live-Action one) ⭑BEFORE⭑ the beginning of the gaming activities.
+
+•Using [alcoholic/recreative/hallucinogen/psychoactive/psychedelic] [drug/substance]s during the gaming section, or attending them under their influence, is strictly forbidden, as it undermines the mental [judgement/balance] of the participants. Regular tobacco is exempt to this rule (in this case, the group must verify whether the smoking of the tobacco is permitted in the location in that the gaming session is being held). Games in which the consumption of [alcohol/recreative/hallucinogen/psychoactive/psychedelic] [drug/substance]s is part of the game mechanics (including, but not limited to, drinking games) are exempt from this rule (in this case, the group must verify whether the use of the [alcoholic/recreative/hallucinogen/psychoactive/psychedelic] [drug/substance]s is permitted in the location in that the gaming session is being held).
+
+•Open door policy – Any participant of the group have the right to stop playing the game, or leaving the group, at any time. Keep in mind that leaving the location in that the gaming session is being held may be impractical (for example, gaming sessions held in submarines, small boats in the high sea, aircrafts, spacecrafts, etc.); in this case, the gaming group have no obligation to stop the game just because someone decided to stop playing. The group shall establish a clear policy regarding the returning of ex-members, or members that stopped playing, ⭑BEFORE⭑ the beginning of the gaming activities.
+
+•The right to remain silent – Any participant of the group have the right of refusing to answer any qüestion. The group shall establish a clear policy regarding this refusal of answering qüestions (a classic example of this is the game «Truth Or Dare»), ⭑BEFORE⭑ the beginning of the gaming activities.
+
+•No «safe space» or «snowflakes» – The gaming group İSN’T a «safe space», and no one (regardless of his position of being a player, GM, or GM Assistant) is a special «snowflake». The gaming group have no other «safety mechanisms» than the «open door policy» and the «right to remain silent» (see their entries). The gaming group is a space based on principles of freedom of speech, self-criticism, and transparency of values.
+
+•Controversial topics & character conduct: While it’s advisable to the group to avoid wasting time in pointless discussions about controversial topics (being the most common ones the politics, religion, and sexuality), no member of the group (regardless of his position of being a player, GM, or GM Assistant) has the obligation of changing the course of an event, or the [action/word]s of a character (be him a PC or NPC), in order to avoid such topics.
+
+•No «keystone member» – The group shall seek and prefer Libre (or at least affordable) gaming [system/setting/tool]s (like print-&-play games, and legally downloadable games and digital tools; if the group will engage in piracy, this is out of the scope of this social contract), in order to avoid a situation in which the group relies on a single member (or a fraction of members) that monopolizes the group due to his higher economic condition to afford the gaming materials. Just read the «Libre Digital Tools» section.
+
+☙Libre Digital Tools❧
+
+Take a look at these Libre digital tools:
+
+•F-droid (https://f-droid.org/) – A repository for Libre Software for the [Replicant/Android] (https://replicant.us/) mobile operating system.
+
+•Fate Sheets (https://f-droid.org/en/packages/link.standen.michael.fatesheets/) – App to manage your character sheets for the Fate System. Includes a builtin F-dice (F[udge/ate] dice) roller.
+
+•Qüick Dice Roller (https://f-droid.org/en/packages/ohm.quickdice/) – A customizable dice roller app (¡ A great software!).
+
+•Dicer (https://f-droid.org/en/packages/com.platypus.dicer/) – Dice roller app.
+
+•Dicer (https://f-droid.org/en/packages/org.secuso.privacyfriendlydicer/) – Dice roller app.
+
+•Easy Dice (https://f-droid.org/en/packages/net.pejici.easydice/) – Dice roller app.
+
+•GM Dice (https://f-droid.org/en/packages/de.duenndns.gmdice/) – Dice roller app.
+
+•DieDroid (https://f-droid.org/en/packages/org.secuso.privacyfriendlydicer/) – Dice roller app.
+
+•Tabletop Tools (https://f-droid.org/en/packages/com.github.muellerma.tabletoptools/) – Tabletop gaming tools app (includes a dice roller).
+
+•OneTwo (https://f-droid.org/en/packages/com.nicue.onetwo/) – Tabletop gaming tools app (dice roller, counter, etc.).
+
+•BetterCounter (https://f-droid.org/en/packages/org.kde.bettercounter/) – Counter app.
+
+•Counter (Tally counter) (https://f-droid.org/en/packages/me.tsukanov.counter/) – Counter app.
+
+•Holo Counter (https://f-droid.org/en/packages/com.omegavesko.holocounter/) – Counter app.
+
+•Tallyphant (https://f-droid.org/pt_BR/packages/com.ciarang.tallyphant/) – Counter app.
