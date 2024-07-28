@@ -1,0 +1,61 @@
+❦Licensing❦
+
+By Felipe Lohan Pinheiro da Silva
+
+***
+
+The fіles in this [directory/folder/repository] (or simply pointing to this text) are under a multiple-licensing mode[l]. You can choose any one of the licenses listed in the links below, always in their respective latest versions.
+
+☙Links❧
+
+•Libre Viral-Open License (under a rolling [releas/updat]e mode[l]):
+
+https://ghostarchive.org/archive/8yEDn
+
+https://archive.ph/m7fAx
+
+https://web.archive.org/web/20240728052654/https://njump.me/nevent1qvzqqqqqqypzq34uqyqmchp9tt26yp7dr8zutmga2x4lm584ctrhjpqnteyf06muqyt8wumn8ghj7ur4wfcxcetjv4kxz7fwvdhk6tcppemhxue69uhkummn9ekx7mp0qqsfx4nrww3asujdqqqps4u0ul9zuyc3wslt3j0rrp7nqxndy5wjkwc42zwfp
+
+•Libre Permissive License (under a rolling [releas/updat]e mode[l]):
+
+https://ghostarchive.org/archive/jl2XY
+
+https://archive.ph/UbGSn
+
+https://web.archive.org/web/20240728053107/https://njump.me/nevent1qvzqqqqqqypzq34uqyqmchp9tt26yp7dr8zutmga2x4lm584ctrhjpqnteyf06muqyt8wumn8ghj7ur4wfcxcetjv4kxz7fwvdhk6tcppemhxue69uhkummn9ekx7mp0qqstsv2jlfjhtp7hvh5037uchfk3vuk6p3grhjn0ttxwe2kv3s7ulpqaa9n66
+
+•GNU AGPL (Affero General Public License):
+
+https://github.com/Felipe-Lohan/00_-_Licensing_And_Documentation/blob/main/GNU_Affero_GPL_-_AGPL_-_V3.txt
+
+https://raw.githubusercontent.com/Felipe-Lohan/00_-_Licensing_And_Documentation/main/GNU_Affero_GPL_-_AGPL_-_V3.txt
+
+https://ghostarchive.org/archive/vWIkE
+
+https://archive.ph/XdGEI
+
+https://web.archive.org/web/20240513144033/https://raw.githubusercontent.com/Felipe-Lohan/00_-_Licensing_And_Documentation/main/GNU_Affero_GPL_-_AGPL_-_V3.txt
+
+•Creative Commons Share-Alike İnternational (CC-BY-SA İnternational – 🅭🅯🄎):
+
+https://github.com/Felipe-Lohan/00_-_Licensing_And_Documentation/blob/main/Creative_Commons_Share-Alike_International_-_V4.txt
+
+https://raw.githubusercontent.com/Felipe-Lohan/00_-_Licensing_And_Documentation/main/Creative_Commons_Share-Alike_International_-_V4.txt
+
+https://ghostarchive.org/archive/89BTF
+
+https://archive.ph/3m3lD
+
+http://web.archive.org/web/20240513224358/https://raw.githubusercontent.com/Felipe-Lohan/00_-_Licensing_And_Documentation/main/Creative_Commons_Share-Alike_International_-_V4.txt
+
+•Creative Commons Attribution İnternational (CC-BY İnternational – 🅭🅯):
+
+https://github.com/Felipe-Lohan/00_-_Licensing_And_Documentation/blob/main/Creative_Commons_Attribution_International_-_V4.txt
+
+https://raw.githubusercontent.com/Felipe-Lohan/00_-_Licensing_And_Documentation/main/Creative_Commons_Attribution_International_-_V4.txt
+
+https://ghostarchive.org/archive/uBAoA
+
+https://archive.ph/2ua6w
+
+https://web.archive.org/web/20240513145754/https://raw.githubusercontent.com/Felipe-Lohan/00_-_Licensing_And_Documentation/main/Creative_Commons_Attribution_International_-_V4.txt
